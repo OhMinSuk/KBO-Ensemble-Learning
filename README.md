@@ -1,1 +1,1 @@
-# KBO-Ensemble-Learning
+앙상블 학습 기반의 KBO 리그 관중 예측 모델 개발 및 성능 비교 (현재 논문 심사중)
