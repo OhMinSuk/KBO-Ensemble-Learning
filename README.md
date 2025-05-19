@@ -57,10 +57,14 @@
 
 ---
 
-## 🤝 프로젝트 논문
+## 📄 논문 제목  
+[KBO 리그 관중 수 예측을 위한 앙상블 학습 모델 비교 연구](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12149602)
 
-- [KBO 리그 관중 수 예측을 위한 앙상블 학습 모델 비교 연구”](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12149602)
--- 한국컴퓨터정보학회 논문지 제30권 제4호(통권 제253호) KCI 등재
+## 🏛️ 학회 및 게재 정보  
+- **학회**: 한국컴퓨터정보학회  
+- **논문지**: 제30권 제4호 (통권 제253호)  
+- **등재 여부**: KCI 등재
+
 ---
 
 ## 🔙 이전 단계
