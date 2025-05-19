@@ -58,7 +58,7 @@
 ---
 
 ## 📄 논문 제목  
-[KBO 리그 관중 수 예측을 위한 앙상블 학습 모델 비교 연구](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12149602)
+🤝[KBO 리그 관중 수 예측을 위한 앙상블 학습 모델 비교 연구](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12149602)
 
 ## 🏛️ 학회 및 게재 정보  
 - **학회**: 한국컴퓨터정보학회  
